@@ -1,3 +1,4 @@
+""" trying out some Git functions"""
 """A library to perform temperature conversions"""
 
 def fahr_to_celsius(fahr):
